@@ -7,19 +7,19 @@ published: true
 Okul okul dolaşmış, pek sırada dirsek çürütmüş ve alanı icaben bilişim dünyasıyla ilgili bisiklet meraklası bir şahısım. İlgilendiğim bilişim alanlarını aşağıda madde madde siz değerli okurlarımla paylaşıyorum.
 
 ### İlgi Alanlarım
--Linux:
-	1.Debian
-    2.Kali Linux
-    3.Linux Ağ Programlama
+-Linux:</br>
+	1.Debian</br>
+    2.Kali Linux</br>
+    3.Linux Ağ Programlama</br>
 
-Programlama:
-	1.Python
-	2.C Programlama
-	3.Php
+Programlama:</br>
+	1.Python</br>
+	2.C Programlama</br>
+	3.Php</br>
 
-Web Tasarım:
-	1.Html5 / Css3
+Web Tasarım:</br>
+	1.Html5 / Css3</br>
     
-CMS:
-	1. Django
-    2. Wordpress
+CMS:</br>
+	1. Django</br>
+    2. Wordpress</br>
