@@ -25,15 +25,4 @@ Okul okul dolaşmış, pek sırada dirsek çürütmüş ve alanı icaben bilişi
     *2. Wordpress
     
     
-<html>
-  <body>
-  <form action="https://formspree.io/burakscandan@windowslive.com"
-      method="POST">
-    <p>Konu: </p> <input type="text" name="name"><br />
-    <p>E-Posta: </p> <input type="email" name="_replyto"><br />
-    <input type="hidden" name="_subject" value="New submission!" />
-    <input type="submit" value="Gönder">
-</form>
-  </body>
 
-</html>
