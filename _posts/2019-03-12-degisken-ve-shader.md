@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Değişkenden Shader’a geçiş
 
@@ -25,6 +25,4 @@ setUniform overload işlemi SFML tarafından sağlanmış tüm tipleri destekler
     • sf::Transform (GLSL type mat4)
     • sf::Texture (GLSL type sampler2D)
 
-Uyarı: GLSL compiler mekanizması kullanılmayan değişkenleri optimize edebilir (kullanılmayandan kasıt final vertexine/pikeseline  dahil edilmeyen hesaplamadır). Bundan dolayı setUniformu kullanırken şu tarz bir hata alırsanız şaşırmayın:”Failed to find variable "xxx" in shader” 
-
-
+Uyarı: GLSL compiler mekanizması kullanılmayan değişkenleri optimize edebilir (kullanılmayandan kasıt final vertexine/pikeseline  dahil edilmeyen hesaplamadır). Bundan dolayı setUniformu kullanırken şu tarz bir hata alırsanız şaşırmayın:”Failed to find variable "xxx" in shader”
