@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Varlıkları transform edip çizdikten sonra onların performansını ölçümlemek isteyebilirsiniz. Örnek vermek gerekirse çakışma olup olmadığına bakmak isteyebilirsiniz.
 
