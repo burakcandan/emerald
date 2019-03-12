@@ -5,7 +5,7 @@ Varlıkları transform edip çizdikten sonra onların performansını ölçümle
 
 SFML varlıklarının boundinx boxları mevcuttur. Boundinx box yapısı x, y ekseninde varlıkların tüm noktalarını kapsayan minimal dikdörtgenlerdir. 
 
-![1.png](sfml-dokumantasyon/_posts/1.png)
+![1](sfml-dokumantasyon/_posts/1.png)
 
 Bounding box yapısı çakışma kontrolünde çok kullanışlıdır. 
 
