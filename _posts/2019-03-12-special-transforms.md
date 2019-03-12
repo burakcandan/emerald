@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Özel Transformlar
 
@@ -43,4 +43,4 @@ sf::RenderStates states;
 states.transform = transform;
 window.draw(entity, states);
 
-Eğer sizin sf::Transformable varlığınız kendi dahili transformunu içeriyorsa Dahili ve geçici trasform finalde kombine edilecektir. 
+Eğer sizin sf::Transformable varlığınız kendi dahili transformunu içeriyorsa Dahili ve geçici trasform finalde kombine edilecektir.
