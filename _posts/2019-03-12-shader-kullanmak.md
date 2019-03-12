@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Shader kullanmak çok basittir. Sadece gerekli argümanını draw fonksiyonunda kullanmak gerekir.
 
