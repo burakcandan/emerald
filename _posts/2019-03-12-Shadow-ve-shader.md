@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Gölgelerle (Shader) özel efekt eklemek
 
@@ -14,4 +14,4 @@ Vertex shaderları her bir vertex için işlem görürken, fragment shaderlar ü
 
 Hangi shader ne yapar ve nasıl etkili kullanılır konusunu iyi anlamak için pipeline render işlemi temellerini iyi anlamak çok önemli. Başlangıçta GLSL programı nasıl yazılır konusuna iyi bakmalısınız. SFML SDK ile gelen Shader örneğine de bakmanızda fayda var. 
 
-Dökümanın bu bölümü sadece SFML’de shader nasıl uygulanır ve nasıl yüklenirle alaklı olacak. Shader yazımı konuya dahil değildir. 
+Dökümanın bu bölümü sadece SFML’de shader nasıl uygulanır ve nasıl yüklenirle alaklı olacak. Shader yazımı konuya dahil değildir.
