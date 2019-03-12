@@ -3,9 +3,15 @@ published: true
 ---
 ### OpenGL Kodu ve sf::Shader kullanımı
 
-Bu dökümantasyon https://www.sfml-dev.org/tutorials/2.5/ adresindeki orijinal metin esas alınarak oluşturulmuştur. Belgenin başından sonuna kadar linkteki İngilizce içerikten de faydalanabilirsiniz. İki belge arasında senkronizasyon mevcuttur. 
+OpenGL kullanıyor olsanız da sf::Shader’ı kullanabilirsiniz. Çizim esnasında sf::Shader’ı aktif etmek için bind static fonksiyonuna başvurmanız gerekir.
 
-Dökümanımızda event, vertex gibi yazılımda önemli anlamlar ihtiva eden ancak Türkçeleştirildiğinde anlam kargaşası yaratan kelimenlerin orijinal halinin kullanılmasına karar verilmiştir. 
-Kaynak kodların arasındaki tanımlamalar çoğu zaman İngilizce aslıyla bırakılmıştır. 
+_sf::Shader shader;
+...
 
-Çalışmalarınızda başarılar dileriz...
+// bind the shader
+sf::Shader::bind(&shader);
+
+// draw your OpenGL entity here...
+
+// bind no shader
+sf::Shader::bind(NULL);_
